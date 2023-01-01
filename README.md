@@ -11,3 +11,5 @@ sudo make install
 ```
 ## Writing code
 Just click on random keys. Maybe something will be made...
+## To make in future
+Add compiler
